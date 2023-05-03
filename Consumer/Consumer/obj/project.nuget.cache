@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/xR9RlvbQU0xa4EJ9GVbeEhdIEUR1k0fxtcTyGxSrYiZMTZZfR3anI8SHzX/zzak0Qauxq3RAkuONFsLs0fcA==",
+  "success": true,
+  "projectFilePath": "E:\\ReactSneakers_WEB\\Consumer\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\offic\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\offic\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\offic\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

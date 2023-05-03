@@ -1,0 +1,12 @@
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\bin\Debug\net6.0\ReactSneakers.Helper.deps.json
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\bin\Debug\net6.0\ReactSneakers.Helper.dll
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\bin\Debug\net6.0\ReactSneakers.Helper.pdb
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\obj\Debug\net6.0\ReactSneakers.Helper.csproj.AssemblyReference.cache
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\obj\Debug\net6.0\ReactSneakers.Helper.GeneratedMSBuildEditorConfig.editorconfig
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\obj\Debug\net6.0\ReactSneakers.Helper.AssemblyInfoInputs.cache
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\obj\Debug\net6.0\ReactSneakers.Helper.AssemblyInfo.cs
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\obj\Debug\net6.0\ReactSneakers.Helper.csproj.CoreCompileInputs.cache
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\obj\Debug\net6.0\ReactSneakers.Helper.dll
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\obj\Debug\net6.0\refint\ReactSneakers.Helper.dll
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\obj\Debug\net6.0\ReactSneakers.Helper.pdb
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Helper\obj\Debug\net6.0\ref\ReactSneakers.Helper.dll

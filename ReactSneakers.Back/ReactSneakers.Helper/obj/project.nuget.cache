@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6uLRyui6aNUNodiNspWnd2dgdwODU+6+2serws+TgqyeCs6b+DX5KFQx+bpj7BoW3ylboCFyUwKLPJ4T/yRqcQ==",
+  "success": true,
+  "projectFilePath": "E:\\ReactSneakers_WEB\\ReactSneakers.Back\\ReactSneakers.Helper\\ReactSneakers.Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\offic\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\offic\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\offic\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\offic\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

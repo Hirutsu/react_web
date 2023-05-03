@@ -1,0 +1,17 @@
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\bin\Debug\net6.0\ReactSneakers.Repositories.deps.json
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\bin\Debug\net6.0\ReactSneakers.Repositories.dll
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\bin\Debug\net6.0\ReactSneakers.Repositories.pdb
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\bin\Debug\net6.0\ReactSneakers.Entities.dll
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\bin\Debug\net6.0\ReactSneakers.Helper.dll
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\bin\Debug\net6.0\ReactSneakers.Entities.pdb
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\bin\Debug\net6.0\ReactSneakers.Helper.pdb
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\obj\Debug\net6.0\ReactSneakers.Repositories.csproj.AssemblyReference.cache
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\obj\Debug\net6.0\ReactSneakers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\obj\Debug\net6.0\ReactSneakers.Repositories.AssemblyInfoInputs.cache
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\obj\Debug\net6.0\ReactSneakers.Repositories.AssemblyInfo.cs
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\obj\Debug\net6.0\ReactSneakers.Repositories.csproj.CoreCompileInputs.cache
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\obj\Debug\net6.0\ReactSneakers.Repositories.csproj.CopyComplete
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\obj\Debug\net6.0\ReactSneakers.Repositories.dll
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\obj\Debug\net6.0\refint\ReactSneakers.Repositories.dll
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\obj\Debug\net6.0\ReactSneakers.Repositories.pdb
+E:\ReactSneakers_WEB\ReactSneakers.Back\ReactSneakers.Repositories\obj\Debug\net6.0\ref\ReactSneakers.Repositories.dll

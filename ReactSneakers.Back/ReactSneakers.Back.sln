@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactSneakers.WebApi", "ReactSneakers.WebApi\ReactSneakers.WebApi.csproj", "{0DC14719-40F4-4962-AD38-51B456696FBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactSneakers.Entities", "ReactSneakers.Entities\ReactSneakers.Entities.csproj", "{E5A84CC9-FC89-4C3B-82FD-FDC3EA71DFB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactSneakers.Services", "ReactSneakers.Services\ReactSneakers.Services.csproj", "{09DB2F06-911A-4CC3-A97B-D59EE60FCBA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactSneakers.Repositories", "ReactSneakers.Repositories\ReactSneakers.Repositories.csproj", "{474C0659-FD0D-40A9-A452-F3F508ABE0B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactSneakers.Helper", "ReactSneakers.Helper\ReactSneakers.Helper.csproj", "{41D9AEC3-8855-40BA-BC0D-96F2D341B620}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{019D07B9-541F-49DD-BEA7-5C735F42BFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC14719-40F4-4962-AD38-51B456696FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC14719-40F4-4962-AD38-51B456696FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC14719-40F4-4962-AD38-51B456696FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC14719-40F4-4962-AD38-51B456696FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A84CC9-FC89-4C3B-82FD-FDC3EA71DFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A84CC9-FC89-4C3B-82FD-FDC3EA71DFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A84CC9-FC89-4C3B-82FD-FDC3EA71DFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A84CC9-FC89-4C3B-82FD-FDC3EA71DFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09DB2F06-911A-4CC3-A97B-D59EE60FCBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DB2F06-911A-4CC3-A97B-D59EE60FCBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DB2F06-911A-4CC3-A97B-D59EE60FCBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DB2F06-911A-4CC3-A97B-D59EE60FCBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{474C0659-FD0D-40A9-A452-F3F508ABE0B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474C0659-FD0D-40A9-A452-F3F508ABE0B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474C0659-FD0D-40A9-A452-F3F508ABE0B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474C0659-FD0D-40A9-A452-F3F508ABE0B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D9AEC3-8855-40BA-BC0D-96F2D341B620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D9AEC3-8855-40BA-BC0D-96F2D341B620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D9AEC3-8855-40BA-BC0D-96F2D341B620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D9AEC3-8855-40BA-BC0D-96F2D341B620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{019D07B9-541F-49DD-BEA7-5C735F42BFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019D07B9-541F-49DD-BEA7-5C735F42BFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019D07B9-541F-49DD-BEA7-5C735F42BFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019D07B9-541F-49DD-BEA7-5C735F42BFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55DAF55B-6385-4CCF-8257-562B1329FEE2}
+	EndGlobalSection
+EndGlobal

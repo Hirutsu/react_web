@@ -1,0 +1,38 @@
+version: '3.4'
+
+services:
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - 1433:1433
+    volumes:
+      - ./volumes/data:/var/opt/mssql/data
+      - ./volumes/log:/var/opt/mssql/log
+      - ./volumes/secrets:/var/opt/mssql/secrets
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=sgu2503!@#
+  rabbitmq3:
+    image: rabbitmq:3.8-management-alpine
+    environment:
+      - RABBITMQ_DEFAULT_USER=burchuladze
+      - RABBITMQ_DEFAULT_PASS=567765
+    ports:
+      # AMQP protocol port
+      - '5672:5672'
+      # HTTP management UI
+      - '15672:15672'
+
+  web_api:
+    build:
+      context: .
+      dockerfile: ReactSneakers.WebApi/Dockerfile
+    ports:
+      - "5001:80"
+
+  frontend:
+    build:
+      context: ..
+      dockerfile: react-sneakers.Front/Dockerfile
+    ports:
+      - "80:3000"

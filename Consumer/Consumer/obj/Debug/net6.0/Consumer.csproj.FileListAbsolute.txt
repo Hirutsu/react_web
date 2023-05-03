@@ -1,0 +1,17 @@
+E:\ReactSneakers_WEB\Consumer\Consumer\bin\Debug\net6.0\Consumer.exe
+E:\ReactSneakers_WEB\Consumer\Consumer\bin\Debug\net6.0\Consumer.deps.json
+E:\ReactSneakers_WEB\Consumer\Consumer\bin\Debug\net6.0\Consumer.runtimeconfig.json
+E:\ReactSneakers_WEB\Consumer\Consumer\bin\Debug\net6.0\Consumer.dll
+E:\ReactSneakers_WEB\Consumer\Consumer\bin\Debug\net6.0\Consumer.pdb
+E:\ReactSneakers_WEB\Consumer\Consumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\ReactSneakers_WEB\Consumer\Consumer\obj\Debug\net6.0\Consumer.csproj.AssemblyReference.cache
+E:\ReactSneakers_WEB\Consumer\Consumer\obj\Debug\net6.0\Consumer.GeneratedMSBuildEditorConfig.editorconfig
+E:\ReactSneakers_WEB\Consumer\Consumer\obj\Debug\net6.0\Consumer.AssemblyInfoInputs.cache
+E:\ReactSneakers_WEB\Consumer\Consumer\obj\Debug\net6.0\Consumer.AssemblyInfo.cs
+E:\ReactSneakers_WEB\Consumer\Consumer\obj\Debug\net6.0\Consumer.csproj.CoreCompileInputs.cache
+E:\ReactSneakers_WEB\Consumer\Consumer\obj\Debug\net6.0\Consumer.csproj.CopyComplete
+E:\ReactSneakers_WEB\Consumer\Consumer\obj\Debug\net6.0\Consumer.dll
+E:\ReactSneakers_WEB\Consumer\Consumer\obj\Debug\net6.0\refint\Consumer.dll
+E:\ReactSneakers_WEB\Consumer\Consumer\obj\Debug\net6.0\Consumer.pdb
+E:\ReactSneakers_WEB\Consumer\Consumer\obj\Debug\net6.0\Consumer.genruntimeconfig.cache
+E:\ReactSneakers_WEB\Consumer\Consumer\obj\Debug\net6.0\ref\Consumer.dll
